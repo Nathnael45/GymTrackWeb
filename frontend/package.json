@@ -1,6 +1,6 @@
 {
   "proxy": "https://workouthubbackend-cc5a9474014a.herokuapp.com",
-  "name": "gymtracker",
+  "name": "workouthub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
