@@ -10,7 +10,6 @@ const Login = () =>{
         e.preventDefault()
         
         await login(email,password)
-        
     }
     
     return(

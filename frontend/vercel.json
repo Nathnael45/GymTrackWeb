@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "https://workouthubbackend-cc5a9474014a.herokuapp.com/$1"
+      }
+    ]
+  }
